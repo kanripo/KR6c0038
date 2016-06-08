@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:52.095727
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 金剛般若疏
 #+PROPERTY: CBETA_ID T33n1699
 #+PROPERTY: ID KR6c0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1699
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0038_T_000-0084a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0038_T_003-0105a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 金剛般若經義疏卷第三¶
+金剛般若經義疏卷第三¶
 ¶
 胡吉藏法師撰¶
 
@@ -475,7 +474,7 @@
 三界思惟更立三果。斷欲界思惟立於二果。¶
 斷上二界思惟立羅漢。所以然者。欲界是苦¶
 難地。此既難可過度。是以斷欲界惑立於¶
-二果上二界非苦難地。已有解基惑則易斷。¶
+二果上二界非苦難地。巳有解基惑則易斷。¶
 是以斷上二界惑立阿羅漢果。言斷欲界惑¶
 立二果者。欲界思惟有九品。斷前六品名斯¶
 陀含果。具斷後三品立阿那含果。所以斷前¶
