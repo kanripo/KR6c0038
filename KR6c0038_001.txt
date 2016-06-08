@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:52.019592
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 金剛般若疏
 #+PROPERTY: CBETA_ID T33n1699
 #+PROPERTY: ID KR6c0038
@@ -13,7 +13,7 @@
 ¶
 No.1699[cf.No.235]¶
 
-金剛般若經序
+* 金剛般若經序
 :PROPERTIES:
 :head: 金剛般若經序
 :END:
